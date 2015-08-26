@@ -1,4 +1,5 @@
-![calendar](https://cloud.githubusercontent.com/assets/11352152/9289678/d5f5977c-4346-11e5-8193-d028412e4d8d.PNG)
+![banner](https://github.com/chmln/wp-material-admin/blob/master/assets/banner-772x250.png?raw=true)
+
 === Material Admin Theme ===
 Contributors: chmln
 Tags: theme, basic, clean, minimalistic, wordpress admin, backend, backend theme, admin theme, custom admin, custom admin theme, flat, material,
